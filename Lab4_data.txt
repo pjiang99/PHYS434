@@ -1,0 +1,2 @@
+wget -O gammaray_lab4.h5 https://canvas.uw.edu/courses/1401649/files/67789336/download?wrap=1
+wget -O images.h5 https://canvas.uw.edu/files/67789337/download?wrap=1
